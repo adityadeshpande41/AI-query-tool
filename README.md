@@ -1,5 +1,7 @@
-AI-Based Expert Call Query Tool
-Overview
+**AI-Based Expert Call Query Tool**
+
+
+Overview:
 This is a local, offline Q&A tool built to answer questions based on expert call transcripts. Users can upload PDFs, ask questions, and get context-grounded answers. Powered by a local Mistral model running on Ollama and using local embeddings for semantic search.
 
 Features
@@ -70,3 +72,6 @@ What are the biggest risks highlighted by the expert?
 
 How is AI being used in Uber Eats according to the expert?
 
+
+Author:
+Aditya Deshpande
